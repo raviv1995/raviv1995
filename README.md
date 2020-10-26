@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a software dev working at Altair! I'm interested in Machine Learning, Data Mining, Game Development and HPC projects. Not counting programming languages I'm fluent in five languages and I spend my spare time noodling on Guitar!
+
 <!--
 **raviv1995/raviv1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -16,11 +16,6 @@ I'm a software dev working at Altair! I'm interested in Machine Learning, Data M
 </a>
 
 
-<a href="https://github.com/raviv1995/astro.ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raviv1995&repo=astro.ai&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-
 
 <!--
 **raviv1995/raviv1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
